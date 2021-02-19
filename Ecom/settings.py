@@ -26,7 +26,7 @@ SECRET_KEY = 'p=25!d_l82lwi6!m*+2vqrk2ghwfp&@d+!@&p^md@73$z7&2x_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://onshopie.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['onshopie.herokuapp.com','127.0.0.1']
 
 
 # Application definition
